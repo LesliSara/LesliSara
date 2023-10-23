@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leslisara&label=Profile%20views&color=0e75b6&style=flat" alt="leslisara" /> </p>
 
+<img align="right" alt="another" width="400" src="https://media.tenor.com/R7JF4cuIjogAAAAi/spongebob-spongebob-meme.gif"></img>
+
 <h1 align="center">🌸 About me c:!🌸</h1>
-
-
-<img align="left" alt="another" width="400" src="https://i.makeagif.com/media/4-29-2016/FPcXjx.gif"></img>
-
 
 - 💻 Java is my favorite programming language
 
