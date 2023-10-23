@@ -9,7 +9,7 @@
 <h1 align="center">🌸 About me c:!🌸</h1>
 
 
-<img align="left" alt="another" width="400" src="https://i.makeagif.com/media/4-29-2016/FPcXjx.gif"</img>
+<img align="left" alt="another" width="400" src="https://i.makeagif.com/media/4-29-2016/FPcXjx.gif"></img>
 
 
 - 💻 Java is my favorite programming language
